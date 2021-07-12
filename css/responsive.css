@@ -1,0 +1,702 @@
+/*========================================
+             index part start
+===========================================*/
+
+@media (min-width:320px) and (max-width:575px) {
+
+    .head_left .Any {
+        display: none;
+    }
+
+    .head_left .phone {
+        display: none;
+    }
+
+    .head_left .email {
+        display: none;
+    }
+
+    nav ul li a {
+        text-align: center;
+    }
+
+
+    .menu_button a {
+        display: none;
+    }
+
+    .all_banner {
+        text-align: center;
+    }
+
+    .banner_img img {
+        width: 100%;
+        height: 600px;
+    }
+
+    .banner_overlay h1 span {
+        font-size: 26px;
+        line-height: 10px;
+        padding-top: 45px;
+    }
+
+    .banner_overlay h1 {
+        font-size: 40px;
+    }
+
+    .banner_overlay p {
+        font-size: 12px;
+        line-height: 24px;
+        padding-right: 0;
+    }
+
+    .prev {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        top: 60%;
+    }
+
+    .next {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        top: 60%;
+    }
+
+    .banner_overlay .button1 {
+        margin-top: 52px;
+        margin-right: 0;
+    }
+
+    .banner_overlay .button2 {
+        margin-top: 12px;
+    }
+
+    #support {
+        padding: 30px 0 0px 0;
+    }
+
+
+    .online {
+        margin-bottom: 99px;
+        border: 2px solid #dddddd;
+    }
+
+    #About {
+        padding: 0;
+        text-align: center;
+    }
+
+    .About_head h3 {
+        font-size: 22px;
+    }
+
+    .About_head p {
+        font-size: 14px;
+    }
+
+    .About_head p span {
+        display: inline-block;
+    }
+
+    .about_2nd p {
+        margin-top: 20px;
+    }
+
+    .about_2nd a {
+        margin-right: 6px;
+        font-size: 18px;
+        margin-bottom: 60px;
+    }
+
+    .count span {
+        font-size: 26px;
+    }
+
+    .count h5 {
+        font-size: 15px;
+        padding-bottom: 10px;
+    }
+
+    .Courses_head h3 {
+        font-size: 26px;
+    }
+
+    .Courses_head p {
+        margin-top: 20px;
+    }
+
+    .Courses_head p span {
+        display: inline-block;
+    }
+
+    .pori_img {
+        text-align: center;
+    }
+
+    .profile p {
+        display: block;
+        text-align: center;
+        padding-left: 0;
+    }
+
+    .profile h5 {
+        text-align: center;
+        display: block;
+        padding-left: 0;
+    }
+
+    #Courses {
+        padding: 80px 0 0 0;
+    }
+
+    .rating ul {
+        padding-top: 0;
+        text-align: center;
+
+    }
+
+    .rating ul li {
+        padding-left: 0;
+        margin-right: 0;
+        padding-bottom: 5px;
+    }
+
+    .rating p {
+        text-align: center;
+    }
+
+    .crs_details {
+        text-align: center;
+    }
+
+    .foot p {
+        font-size: 10px;
+    }
+
+    .foot .Months {
+        font-size: 12px;
+    }
+
+    .footer_botton a {
+        padding: 12px 16px;
+    }
+
+    #Events {
+        padding: 0 0 60px 0;
+    }
+
+    .Events_head h3 {
+        font-size: 22px;
+    }
+
+    .Events_head p {
+        font-size: 14px;
+    }
+
+    .Events_head p span {
+        display: inline-block;
+    }
+
+    .pb-calendar {
+        margin-bottom: 30px;
+    }
+
+    .student_Events {
+        display: block;
+    }
+
+    .Events_img img {
+        width: 100%;
+    }
+
+    .Events_img .Events_overlay {
+        right: 0;
+    }
+
+    .event_text h4 {
+        font-size: 20px;
+        margin-top: 10px;
+    }
+
+    .event_text .time {
+        display: block;
+        padding-left: 23px;
+    }
+
+    .test_img img {
+        width: 100%;
+    }
+
+    .card-header .btn-link {
+        font-size: 18px;
+    }
+
+    .Teacher_head h3 {
+        font-size: 22px;
+    }
+
+    .Teacher_head p {
+        font-size: 14px;
+    }
+
+    .Teacher_head p span {
+        display: inline-block;
+    }
+
+    .Teacher_head p {
+        margin-top: 20px;
+    }
+
+    .blog_head h3 {
+        font-size: 22px;
+    }
+
+    .blog_head p {
+        font-size: 14px;
+    }
+
+    .blog_head p span {
+        display: inline-block;
+    }
+
+    .blog_pad {
+        margin-top: 30px;
+    }
+
+    .Item_img .overlay .icon ul {
+        margin-left: 0;
+        margin-top: 25px;
+    }
+
+    .icon {
+        text-align: center;
+    }
+
+    .icon ul li {
+        display: inline-block;
+    }
+
+    .over_text {
+        text-align: center;
+    }
+
+    .Item_img .overlay .over_text a {
+        padding-top: 15px;
+        padding-left: 0;
+        font-size: 17px;
+        margin-bottom: 0;
+    }
+
+    .Item_img .overlay .over_anq {
+        text-align: center;
+    }
+
+    .Item_img .overlay .over_footer p {
+        padding-left: 0;
+    }
+
+    .over_date {
+        display: block;
+        text-align: center;
+    }
+
+    .Item_img .overlay .over_anq a {
+        padding-left: 0;
+    }
+
+    .all_blog {
+        margin-top: 0;
+    }
+
+    #blogitem {
+        margin-top: -210px
+    }
+
+    .Item_img .overlay .over_foot p {
+        padding-left: 0;
+    }
+
+    .blog_2dpic {
+        margin-bottom: 30px;
+    }
+
+    .blog_2dpic {
+        width: 290px;
+        margin: 0 auto;
+        margin-bottom: 30px;
+    }
+
+    .logo {
+        text-align: center;
+    }
+
+    .contact_1st p {
+        text-align: center
+    }
+
+    .contact_2nd h3 {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .Khan {
+        text-align: center
+    }
+
+    .contact_3rd h3 {
+        text-align: center;
+    }
+
+    .add_icon ul {
+        text-align: center;
+    }
+
+    .add_icon ul li {
+        display: inline-block;
+        margin-right: 10px;
+
+    }
+
+    .lo ul li {
+        text-align: center;
+    }
+
+    #footer p {
+        font-size: 12px;
+    }
+
+
+}
+
+@media (min-width:576px) and (max-width:767px) {
+
+    .head_left .email {
+        display: none;
+    }
+
+    nav ul li a {
+        text-align: center;
+    }
+
+
+    .menu_button a {
+        display: none;
+    }
+
+    .all_banner {
+        text-align: center;
+    }
+
+    .banner_img img {
+        width: 100%;
+        height: 600px;
+    }
+
+    .banner_overlay h1 span {
+        font-size: 26px;
+        line-height: 10px;
+        padding-top: 45px;
+    }
+
+    .banner_overlay h1 {
+        font-size: 40px;
+    }
+
+    .banner_overlay p {
+        padding-right: 0;
+        font-size: 12px;
+    }
+
+    .banner_overlay .button1 {
+        margin-top: 110px;
+    }
+
+    .online {
+        margin-bottom: 100px;
+    }
+
+    .online:nth-child(3) {
+        margin-bottom: 0;
+    }
+
+    #About {
+        padding: 30px 0 80px 0;
+    }
+
+    .About_head h3 {
+        font-size: 22px;
+    }
+
+    .About_head p {
+        font-size: 14px;
+    }
+
+    .About_head p span {
+        display: inline-block;
+    }
+
+    .about_2nd p {
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .about_2nd {
+        text-align: center;
+    }
+
+    .count span {
+        font-size: 26xp;
+    }
+
+    .count h5 {
+        font-size: 14px;
+    }
+
+    .Courses_head h3 {
+        font-size: 26px;
+    }
+
+    #Courses {
+        padding: 80px 0 0 0;
+    }
+
+
+    .Courses_head p {
+        margin-top: 20px;
+    }
+
+    .Courses_head p span {
+        display: inline-block;
+    }
+
+    .pori_img {
+        text-align: center;
+    }
+
+    .profile p {
+        display: block;
+        text-align: center;
+        padding-left: 0;
+    }
+
+    .profile h5 {
+        text-align: center;
+        display: block;
+        padding-left: 0;
+    }
+
+    .rating ul {
+        padding-top: 0;
+        text-align: center;
+
+    }
+
+    .rating ul li {
+        padding-left: 0;
+        margin-right: 0;
+        padding-bottom: 5px;
+    }
+
+    .rating p {
+        text-align: center;
+    }
+
+    .crs_details {
+        text-align: center;
+    }
+
+    .foot p {
+        font-size: 10px;
+        text-align: center;
+    }
+
+    .foot .Months {
+        font-size: 12px;
+    }
+
+    .footer_botton a {
+        padding: 12px 16px;
+    }
+
+
+    #Events {
+        padding: 0 0 60px 0;
+    }
+
+    .Events_head h3 {
+        font-size: 22px;
+    }
+
+    .Events_head p {
+        font-size: 14px;
+    }
+
+    .Events_head p span {
+        display: inline-block;
+    }
+
+    .pb-calendar {
+        margin-bottom: 30px;
+    }
+
+    .Events_img img {
+        width: 100%;
+    }
+
+    .event_text h4 {
+        font-size: 16px;
+    }
+
+    .event_text i {
+        margin-left: 0;
+    }
+
+    .join a {
+        margin-top: 7px;
+    }
+
+    .Events_img .overlay {
+        right: 0;
+    }
+
+    .Events_img .Events_overlay {
+        right: 0;
+    }
+
+    .Test_head h3 {
+        font-size: 22px;
+    }
+
+    .Test_head p {
+        font-size: 14px;
+    }
+
+    .Test_head p span {
+        display: inline-block;
+    }
+
+
+    .blog_head h3 {
+        font-size: 22px;
+    }
+
+    .blog_head p {
+        font-size: 14px;
+    }
+
+    .blog_head p span {
+        display: inline-block;
+    }
+
+    .all_blog {
+        margin-top: 0;
+    }
+
+    .Item_img {
+        margin-top: -200px;
+    }
+
+    .Item_img {
+        margin-bottom: 223px;
+    }
+
+    .Item_img:nth-child(2) {
+        margin-bottom: 0px;
+    }
+
+    .Item_img .overlay .icon ul {
+        margin-left: 0;
+        margin-top: 25px;
+    }
+
+    .icon {
+        text-align: center;
+    }
+
+    .icon ul li {
+        display: inline-block;
+    }
+
+    .over_text {
+        text-align: center;
+    }
+
+    .Item_img .overlay .over_text a {
+        padding-top: 15px;
+        padding-left: 0;
+        font-size: 17px;
+        margin-bottom: 0;
+    }
+
+    .Item_img .overlay .over_foot p {
+        padding-left: 40px;
+    }
+
+    .blog_2dpic {
+        margin-bottom: 30px;
+    }
+
+    .blog_2dpic .overlay .over_text2 a {
+        padding-top: 28px;
+    }
+
+    .blog_2dpic .overlay .over_text2 a {
+        font-size: 14px;
+    }
+
+    .blog_2dpic .overlay .over_anq a {
+        font-size: 13px;
+    }
+
+    .Khan ul li a:hover {
+        padding-left: 0;
+    }
+
+    .Khan ul li a {
+        font-size: 11px;
+    }
+
+    .contact_3rd {
+        text-align: center;
+    }
+
+    .contact_3rd h3 {
+        padding-top: 40px;
+    }
+
+    .add_icon ul li {
+        display: inline-block;
+        margin-right: 10px;
+    }
+
+    .lo ul {
+        padding-top: 0;
+    }
+
+    #footer p {
+        font-size: 14px;
+    }
+
+}
+
+@media (min-width:768px) and (max-width:991px){
+    .head_left .Any {
+        display: none;
+    }
+
+    nav ul li a {
+        text-align: center;
+    }
+}
+
+
+
+
+
+
+
+/*========================================
+             index part end
+===========================================*/
